@@ -1,0 +1,2 @@
+# TaskFlow
+ TaskFlow es una plataforma de gestión de tareas y proyectos diseñada para equipos que buscan optimizar su flujo de trabajo y colaboración en tiempo real. Ofrece una interfaz intuitiva que permite a los usuarios organizar proyectos, establecer plazos y seguir el progreso de las tareas. TaskFlow se adapta a una variedad de metodologías de trabajo y está diseñada para escalar conforme crecen los equipos y sus necesidades.
